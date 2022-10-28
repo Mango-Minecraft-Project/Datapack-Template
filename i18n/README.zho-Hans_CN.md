@@ -22,4 +22,4 @@
 
 ---
 
-<small>Copyright © 2022 Mango-Minecraft-Project. All rights reserved.</small>
+<small>Copyright © 2022 Mango-Minecraft-Project.</small>
