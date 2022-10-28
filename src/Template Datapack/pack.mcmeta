@@ -1,3 +1,6 @@
 {
-    
+    "pack": {
+        "pack_format": 11,
+        "description": "The default data for Minecraft"
+    }
 }
