@@ -1,12 +1,12 @@
 <div align="center">
 
-# Template-Datapack
+# Datapack-Template
 ![icon](./img/icon/)
 |>English<|[简体中文](./i18n/README.zho-Hans_CN.md)|[繁體中文](./i18n/README.zho-Hant_TW.md)|
 
 </div>
 
-- [Template-Datapack](#template-datapack)
+- [Datapack-Template](#datapack-template)
   - [Gallery](#gallery)
   - [Description](#description)
 

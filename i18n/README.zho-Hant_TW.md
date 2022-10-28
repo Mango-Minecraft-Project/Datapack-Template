@@ -1,12 +1,12 @@
 <div align="center">
 
-# 範本資料包
+# 資料包範本
 ![icon](./img/icon/)
 |[English](../README.md)|[简体中文](./README.zho-Hans_CN.md)|>繁體中文<|
 
 </div>
 
-- [範本資料包](#範本資料包)
+- [資料包範本](#資料包範本)
   - [藝廊](#藝廊)
   - [說明](#說明)
 

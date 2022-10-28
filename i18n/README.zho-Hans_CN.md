@@ -1,12 +1,12 @@
 <div align="center">
 
-# 范本数据包
+# 数据包模板
 ![icon](./img/icon/)
 |[English](../README.md)|>简体中文<|[繁体中文](./README.zho-Hant_TW.md)|
 
 </div>
 
-- [范本数据包](#范本数据包)
+- [数据包模板](#数据包模板)
   - [艺廊](#艺廊)
   - [说明](#说明)
 
